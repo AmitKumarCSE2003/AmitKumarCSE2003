@@ -7,10 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumarcse2003&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumarcse2003" /> </p>
 
 - 🌱 I’m currently learning **ReactJs ,Python**
+  
+- 💬 Ask me about **Html, Css, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmitKumarCSE2003](https://github.com/AmitKumarCSE2003)
 
-- 💬 Ask me about **Html, Css, Python**
 
 - 📫 How to reach me **amitkr092003@gmail.com**
 
